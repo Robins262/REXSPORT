@@ -1,0 +1,1146 @@
+[
+  {
+    "id": 1,
+    "nombre": "Prensa 45 grados LM-1056",
+    "categoria": "PRECOR",
+    "descripcion": "Maquina con 80kg en bloques\nEspesor 3mm\nGarantía 1 año",
+    "precio": 2990,
+    "descuento": 3199,
+    "imagen": "imagenes/LM-1056_QRFjkQRAgSisRRpxQRQIpsk.jpeg",
+    "agotado": false
+  },
+  {
+    "id": 2,
+    "nombre": "TRICEPS (LM-1095)",
+    "categoria": "PRECOR",
+    "descripcion": "Maquina con 80kg en bloques\nEspesor 3mm\nGarantía 1 año",
+    "precio": 2650,
+    "descuento": 3200,
+    "imagen": "imagenes/LM-1095_QRFjkQRAgSisRRpxQRQIpsk.jpeg",
+    "agotado": false
+  },
+  {
+    "id": 3,
+    "nombre": "POLEA ALTA CON REMO PRECOR - LM-1078",
+    "categoria": "PRECOR",
+    "descripcion": "Maquina con 80kg en bloques\nEspesor 3mm\nGarantía 1 año",
+    "precio": 2680,
+    "descuento": 3598,
+    "imagen": "imagenes/image.png",
+    "agotado": false
+  },
+  {
+    "id": 4,
+    "nombre": "PRESS DE PECHOY HOMBROS PRECOR - LM-1083",
+    "categoria": "PRECOR",
+    "descripcion": "Maquina con 80kg en bloques\nEspesor 3mm\nGarantía 1 año",
+    "precio": 2650,
+    "descuento": 3200,
+    "imagen": "imagenes/image (1).png",
+    "agotado": false
+  },
+  {
+    "id": 5,
+    "nombre": "PRENSA DUAL HACK PRECOR -LM-1081",
+    "categoria": "PRECOR",
+    "descripcion": "Maquina con 80kg en bloques\nEspesor 3mm\nGarantía 1 año",
+    "precio": 3200,
+    "descuento": 3600,
+    "imagen": "imagenes/MAQUINAS INDUSTRIALES ENERO (2).pdf_37.png",
+    "agotado": true
+  },
+  {
+    "id": 6,
+    "nombre": "BANCA PARA ABDOMINALES PRECOR -LM-1102",
+    "categoria": "PRECOR",
+    "descripcion": "BANCA PARA ABDOMINALES\n",
+    "precio": 1200,
+    "descuento": 1600,
+    "imagen": "imagenes/LM-1102_QRFjkQRAgSisRRpxQRQIpsk.jpeg",
+    "agotado": false
+  },
+  {
+    "id": 7,
+    "nombre": "SMITH MACHINE PRECOR-LM-1063",
+    "categoria": "PRECOR",
+    "descripcion": "Maquina con 80kg en bloques\nEspesor 3mm\nGarantía 1 año",
+    "precio": 3160,
+    "descuento": 3600,
+    "imagen": "imagenes/image (2).png",
+    "agotado": false
+  },
+  {
+    "id": 8,
+    "nombre": "PRENSA PENDULO PARADO PRECOR-LM-1065",
+    "categoria": "PRECOR",
+    "descripcion": "Maquina con 80kg en bloques\nEspesor 3mm\nGarantía 1 año",
+    "precio": 2250,
+    "descuento": 3000,
+    "imagen": "imagenes/LM-1065_QRFjkQRAgSisRRpxQRQIpsk.jpeg",
+    "agotado": false
+  },
+  {
+    "id": 9,
+    "nombre": "DIP/CHIN ASSIST PRECOR-LM-1040",
+    "categoria": "PRECOR",
+    "descripcion": "Maquina con 80kg en bloques\nEspesor 3mm\nGarantía 1 año",
+    "precio": 2660,
+    "descuento": 3000,
+    "imagen": "imagenes/LM-1040_QRFjkQRAgSisRRpxQRQIpsk.jpeg",
+    "agotado": false
+  },
+  {
+    "id": 10,
+    "nombre": "LEG EXTENSION PRECOR-LM-1002",
+    "categoria": "PRECOR",
+    "descripcion": "Maquina con 80kg en bloques\nEspesor 3mm\nGarantía 1 año",
+    "precio": 2650,
+    "descuento": 3200,
+    "imagen": "imagenes/MAQUINAS INDUSTRIALES ENERO (2).pdf_53.png",
+    "agotado": true
+  },
+  {
+    "id": 11,
+    "nombre": "PRENSA DE PIERNAS SENTADO PRECOR-LM-1003",
+    "categoria": "PRECOR",
+    "descripcion": "Maquina con 80kg en bloques\nEspesor 3mm\nGarantía 1 año",
+    "precio": 2650,
+    "descuento": 3200,
+    "imagen": "imagenes/MAQUINAS INDUSTRIALES ENERO (2).pdf_53 (1).png",
+    "agotado": true
+  },
+  {
+    "id": 12,
+    "nombre": "PEC DEC / PECTORALMACHINE PRECOR-LM-1004",
+    "categoria": "PRECOR",
+    "descripcion": "Maquina con 80kg en bloques\nEspesor 3mm\nGarantía 1 año",
+    "precio": 2650,
+    "descuento": 3200,
+    "imagen": "imagenes/MAQUINAS INDUSTRIALES ENERO (2).pdf_53 (2).png",
+    "agotado": false
+  },
+  {
+    "id": 13,
+    "nombre": "MAQUINA AISLADOR DE GLUTEOS PRECOR-LM-1024",
+    "categoria": "PRECOR",
+    "descripcion": "Maquina con 80kg en bloques\nEspesor 3mm\nGarantía 1 año",
+    "precio": 2650,
+    "descuento": 3200,
+    "imagen": "imagenes/MAQUINAS INDUSTRIALES ENERO (2).pdf_49.png",
+    "agotado": false
+  },
+  {
+    "id": 14,
+    "nombre": "LEG CURL FEMORAL ACOSTADO PRECOR-LM-1001",
+    "categoria": "PRECOR",
+    "descripcion": "Maquina con 80kg en bloques\nEspesor 3mm\nGarantía 1 año",
+    "precio": 2650,
+    "descuento": 3200,
+    "imagen": "imagenes/MAQUINAS INDUSTRIALES ENERO (2).pdf_50.png",
+    "agotado": true
+  },
+  {
+    "id": 15,
+    "nombre": "LEG CURL PRECOR-LM-1023",
+    "categoria": "PRECOR",
+    "descripcion": "Maquina con 80kg en bloques\nEspesor 3mm\nGarantía 1 año",
+    "precio": 2650,
+    "descuento": 3200,
+    "imagen": "imagenes/MAQUINAS INDUSTRIALES ENERO (2).pdf_44-1.png",
+    "agotado": false
+  },
+  {
+    "id": 16,
+    "nombre": "ELEVACION LATERAL PRECOR-LM-1005",
+    "categoria": "PRECOR",
+    "descripcion": "Maquina con 80kg en bloques\nEspesor 3mm\nGarantía 1 año",
+    "precio": 2650,
+    "descuento": 3200,
+    "imagen": "imagenes/MAQUINAS INDUSTRIALES ENERO (2).pdf_63.png",
+    "agotado": true
+  },
+  {
+    "id": 17,
+    "nombre": "PRESS DE HOMBRO PRECOR -LM-1006",
+    "categoria": "PRECOR",
+    "descripcion": "Maquina con 80kg en bloques\nEspesor 3mm\nGarantía 1 año",
+    "precio": 2650,
+    "descuento": 3200,
+    "imagen": "imagenes/MAQUINAS INDUSTRIALES ENERO (2).pdf_65.png",
+    "agotado": false
+  },
+  {
+    "id": 18,
+    "nombre": "PECFLY PRECOR -LM-1007",
+    "categoria": "PRECOR",
+    "descripcion": "Maquina con 80kg en bloques\nEspesor 3mm\nGarantía 1 año",
+    "precio": 2750,
+    "descuento": 3200,
+    "imagen": "imagenes/MAQUINAS INDUSTRIALES ENERO (2).pdf_65 (1)-1.png",
+    "agotado": true
+  },
+  {
+    "id": 19,
+    "nombre": "TRICEPS PRESS PRECOR",
+    "categoria": "PRECOR",
+    "descripcion": "Maquina con 80kg en bloques\nEspesor 3mm\nGarantía 1 año",
+    "precio": 2650,
+    "descuento": 3200,
+    "imagen": "imagenes/MAQUINAS INDUSTRIALES ENERO (2).pdf_63 (1).png",
+    "agotado": false
+  },
+  {
+    "id": 20,
+    "nombre": "PRESS DE PECHO INCLINADO PRECOR",
+    "categoria": "PRECOR",
+    "descripcion": "Maquina con 80kg en bloques\nEspesor 3mm\nGarantía 1 año",
+    "precio": 2750,
+    "descuento": 3200,
+    "imagen": "imagenes/MAQUINAS INDUSTRIALES ENERO (2).pdf_65 (2).png",
+    "agotado": false
+  },
+  {
+    "id": 21,
+    "nombre": "CROSS OVER PRECOR",
+    "categoria": "PRECOR",
+    "precio": 3400,
+    "descuento": 3900,
+    "imagen": "imagenes/MAQUINAS INDUSTRIALES ENERO (2).pdf_67.png",
+    "agotado": true
+  },
+  {
+    "id": 22,
+    "nombre": "PRESS DE HOMBRO PRECOR-LM-3004",
+    "categoria": "PRECOR",
+    "precio": 2850,
+    "descuento": 3200,
+    "imagen": "imagenes/MAQUINAS INDUSTRIALES ENERO (2).pdf_73.png",
+    "agotado": true
+  },
+  {
+    "id": 23,
+    "nombre": "STANDING CAFL RAISE MACHINE PRECOR-LM-3018",
+    "categoria": "PRECOR",
+    "precio": 2850,
+    "descuento": 3200,
+    "imagen": "imagenes/MAQUINAS INDUSTRIALES ENERO (2).pdf_74.png",
+    "agotado": false
+  },
+  {
+    "id": 24,
+    "nombre": "MULTI HIP PRECOR-LM-3019",
+    "categoria": "PRECOR",
+    "precio": 2850,
+    "descuento": 3200,
+    "imagen": "imagenes/MAQUINAS INDUSTRIALES ENERO (2).pdf_74 (1).png",
+    "agotado": false
+  },
+  {
+    "id": 25,
+    "nombre": "ABDUCTOR / ADDUCTOR DUAL PRECOR-LM-3024",
+    "categoria": "PRECOR",
+    "precio": 2900,
+    "descuento": 3200,
+    "imagen": "imagenes/MAQUINAS INDUSTRIALES ENERO (2).pdf_77.png",
+    "agotado": false
+  },
+  {
+    "id": 26,
+    "nombre": "MACHINE 3D SMITH HIPTHRUST PRECOR-LM-4004",
+    "categoria": "PRECOR",
+    "precio": 2700,
+    "descuento": 3200,
+    "imagen": "imagenes/MAQUINAS INDUSTRIALES ENERO (2).pdf_77 (1).png",
+    "agotado": true
+  },
+  {
+    "id": 27,
+    "nombre": "5 ESTACIONES PRECOR ",
+    "categoria": "PRECOR",
+    "precio": 9900,
+    "descuento": 10000,
+    "imagen": "imagenes/MAQUINAS INDUSTRIALES ENERO (2).pdf_89 (1).png",
+    "agotado": true
+  },
+  {
+    "id": 28,
+    "nombre": "TRACCION DE ESPALDA HAMMER",
+    "categoria": "HAMMER",
+    "precio": 2390,
+    "descuento": 2900,
+    "imagen": "imagenes/image (3).png",
+    "agotado": false
+  },
+  {
+    "id": 29,
+    "nombre": "STANDING LEG CURL HAMMER",
+    "categoria": "HAMMER",
+    "precio": 2490,
+    "descuento": 2900,
+    "imagen": "imagenes/77a6cf3b0c234c9297984e9cb7ee7bde.png",
+    "agotado": true
+  },
+  {
+    "id": 30,
+    "nombre": "HAMMER BICEPS HAMMER",
+    "categoria": "HAMMER",
+    "precio": 2460,
+    "descuento": 2900,
+    "imagen": "imagenes/8006232d85d146c693820fe71f84c967.png",
+    "agotado": false
+  },
+  {
+    "id": 31,
+    "nombre": "RACK PORTADISCOS ",
+    "categoria": "PRECOR",
+    "precio": 660,
+    "descuento": 900,
+    "imagen": "imagenes/17aeb118a35047b485477716d059c055.png",
+    "agotado": true
+  },
+  {
+    "id": 32,
+    "nombre": "banco olimpico sentado precor",
+    "categoria": "PRECOR",
+    "precio": 1300,
+    "descuento": 1500,
+    "imagen": "imagenes/af97ae4c066b46ecb1829e38c98479fd.webp",
+    "agotado": false
+  },
+  {
+    "id": 33,
+    "nombre": "PULLDOWN PARA ESPALDA HAMMER",
+    "categoria": "HAMMER",
+    "precio": 3450,
+    "descuento": 3900,
+    "imagen": "imagenes/image (4).png",
+    "agotado": true
+  },
+  {
+    "id": 34,
+    "nombre": "PRESS DE PECHO HAMMER",
+    "categoria": "HAMMER",
+    "precio": 2390,
+    "descuento": 2900,
+    "imagen": "imagenes/10.jpg",
+    "agotado": false
+  },
+  {
+    "id": 35,
+    "nombre": "RESS DE PECHO INCLINADO  HAMMER",
+    "categoria": "HAMMER",
+    "precio": 2390,
+    "descuento": 2900,
+    "imagen": "imagenes/hammer inclinado.png",
+    "agotado": false
+  },
+  {
+    "id": 36,
+    "nombre": "PRESS DE HOMBRO HAMMER",
+    "categoria": "HAMMER",
+    "precio": 2460,
+    "descuento": 2900,
+    "imagen": "imagenes/45dee785e857424ca0d67a6fd7c06fbc.png",
+    "agotado": true
+  },
+  {
+    "id": 37,
+    "nombre": "REMO SENTADO HAMMER",
+    "categoria": "HAMMER",
+    "precio": 2390,
+    "descuento": 2900,
+    "imagen": "imagenes/WhatsApp_Image_2024-09-20_at_3.43.00_PM-removebg-preview.png",
+    "agotado": false
+  },
+  {
+    "id": 38,
+    "nombre": "REMO INCLINADO HAMMER",
+    "categoria": "HAMMER",
+    "precio": 2600,
+    "descuento": 2900,
+    "imagen": "imagenes/a1c5eb53b03e474fa15757b121db48aa.png",
+    "agotado": true
+  },
+  {
+    "id": 39,
+    "nombre": "PATADA DE GLUTEOS HAMMER",
+    "categoria": "HAMMER",
+    "precio": 2600,
+    "descuento": 2900,
+    "imagen": "imagenes/a1c5eb53b03e474fa15757b121db48aa-1.png",
+    "agotado": true
+  },
+  {
+    "id": 40,
+    "nombre": "TRICEPS PRESS precor",
+    "categoria": "PRECOR",
+    "precio": 2900,
+    "descuento": 3200,
+    "imagen": "imagenes/2f15daccca8e45889b4d39ae3d90473e.png",
+    "agotado": true
+  },
+  {
+    "id": 41,
+    "nombre": "VERTICAL ROW PRECOR",
+    "categoria": "PRECOR",
+    "precio": 2900,
+    "descuento": 3200,
+    "imagen": "imagenes/52410c5bba13458cb9c714609be2c986.png",
+    "agotado": true
+  },
+  {
+    "id": 42,
+    "nombre": "PRENSA HACK SQUAT PRECOR",
+    "categoria": "PRECOR",
+    "precio": 2950,
+    "descuento": 3600,
+    "imagen": "imagenes/image (5).png",
+    "agotado": false
+  },
+  {
+    "id": 43,
+    "nombre": "MULTI HIP PRECOR",
+    "categoria": "PRECOR",
+    "precio": 2680,
+    "descuento": 2900,
+    "imagen": "imagenes/ea15837deacf4430b18f8c97368e1eb5.png",
+    "agotado": false
+  },
+  {
+    "id": 44,
+    "nombre": "PEARL DELT / PEC FLY PRECOR",
+    "categoria": "PRECOR",
+    "precio": 2770,
+    "descuento": 3200,
+    "imagen": "imagenes/29763fc23d7c4048827ab62faec55157.png",
+    "agotado": false
+  },
+  {
+    "id": 45,
+    "nombre": "ABDOMINAL CRUNCH / LOWER BACK PRECOR",
+    "categoria": "PRECOR",
+    "precio": 2850,
+    "descuento": 3200,
+    "imagen": "imagenes/230426efcd3f4d518c04793405294419.png",
+    "agotado": false
+  },
+  {
+    "id": 46,
+    "nombre": "TRICEPS SENTADO PLANO PRECOR",
+    "categoria": "PRECOR",
+    "precio": 2900,
+    "descuento": 3200,
+    "imagen": "imagenes/image (6).png",
+    "agotado": false
+  },
+  {
+    "id": 47,
+    "nombre": "CURL / EXTENSION DE PIERNA",
+    "categoria": "PRECOR",
+    "precio": 2990,
+    "descuento": 3200,
+    "imagen": "imagenes/944fb4564e0c45898f68dd1cd3270f79.png",
+    "agotado": true
+  },
+  {
+    "id": 48,
+    "nombre": "BELT SQUAT MACHINE",
+    "categoria": "IMPORTADO",
+    "precio": 2280,
+    "descuento": 2600,
+    "imagen": "imagenes/7526ee47a42048e89bae44d6534715a9.png",
+    "agotado": true
+  },
+  {
+    "id": 49,
+    "nombre": "STANDING HIP MACHINE",
+    "categoria": "IMPORTADO",
+    "precio": 2280,
+    "descuento": 2600,
+    "imagen": "imagenes/82ba4f610f394f53aff125370f604238.png",
+    "agotado": true
+  },
+  {
+    "id": 50,
+    "nombre": "HIP THRUST MACHINE",
+    "categoria": "IMPORTADO",
+    "precio": 4250,
+    "descuento": 4900,
+    "imagen": "imagenes/674732ec16fb4561a4e5d111a7c77870.webp",
+    "agotado": false
+  },
+  {
+    "id": 51,
+    "nombre": "STANDING HIP THRUST MACHINE",
+    "categoria": "IMPORTADO",
+    "precio": 2280,
+    "descuento": 2600,
+    "imagen": "imagenes/b115e305879947db835d0620fdee4d80.png",
+    "agotado": true
+  },
+  {
+    "id": 52,
+    "nombre": "HIP THRUST GLUTE MACHINE PRECOR",
+    "categoria": "PRECOR",
+    "precio": 2150,
+    "descuento": 2500,
+    "imagen": "imagenes/a1d1fc7deeb64120b77096d4041d03e3.png",
+    "agotado": false
+  },
+  {
+    "id": 53,
+    "nombre": "LEG CURL FEMORAL ACOSTADO PRECOR",
+    "categoria": "PRECOR",
+    "precio": 2990,
+    "descuento": 3200,
+    "imagen": "imagenes/image (7).png",
+    "agotado": true
+  },
+  {
+    "id": 54,
+    "nombre": "LEG EXTENSION PRECOR",
+    "categoria": "PRECOR",
+    "precio": 2990,
+    "descuento": 3200,
+    "imagen": "imagenes/0efb093e84a743289949c7de45572593.png",
+    "agotado": true
+  },
+  {
+    "id": 55,
+    "nombre": "ELEVACION LATERAL PRECOR",
+    "categoria": "PRECOR",
+    "precio": 2650,
+    "descuento": 2900,
+    "imagen": "imagenes/7a30f90b1e4b49db9fef9f322a25d3e0.png",
+    "agotado": false
+  },
+  {
+    "id": 56,
+    "nombre": "PRESS DE PECHO VERTICAL PRECOR",
+    "categoria": "PRECOR",
+    "precio": 2990,
+    "descuento": 3200,
+    "imagen": "imagenes/1dfdbe741d8b480cae7ddd371979b42b.png",
+    "agotado": true
+  },
+  {
+    "id": 57,
+    "nombre": "ABDUCTOR/ADDUCTOR DUAL PRECOR",
+    "categoria": "PRECOR",
+    "precio": 3200,
+    "descuento": 3600,
+    "imagen": "imagenes/4ac2dba5954940e4a6dc78c3d9e14568.png",
+    "agotado": true
+  },
+  {
+    "id": 58,
+    "nombre": "LAT PULLDOWN HOIST",
+    "categoria": "HOIST",
+    "precio": 2990,
+    "descuento": 3600,
+    "imagen": "imagenes/0d14bd6d5cf946379f0e9637e31a86d9.webp",
+    "agotado": true
+  },
+  {
+    "id": 59,
+    "nombre": "BANCO SCOTT TUBO ELIPTICO",
+    "categoria": "HOIST",
+    "precio": 1060,
+    "descuento": 1500,
+    "imagen": "imagenes/image (8).png",
+    "agotado": false
+  },
+  {
+    "id": 60,
+    "nombre": "MID ROW HOIST",
+    "categoria": "HOIST",
+    "precio": 2990,
+    "descuento": 3600,
+    "imagen": "imagenes/57d635beaa884b3da09dbc5033df6fcc.webp",
+    "agotado": true
+  },
+  {
+    "id": 61,
+    "nombre": "ABDOMINAL HOIST",
+    "categoria": "HOIST",
+    "precio": 3600,
+    "descuento": 3900,
+    "imagen": "imagenes/FW2-024_KBFjkKBAgSisRRpxKBQIpsk.jpeg",
+    "agotado": true
+  },
+  {
+    "id": 62,
+    "nombre": "SEATED DIP HOIST",
+    "categoria": "HOIST",
+    "precio": 2990,
+    "descuento": 3200,
+    "imagen": "imagenes/8257147a8e1849c38bcf99670d90a48a-2.png",
+    "agotado": false
+  },
+  {
+    "id": 63,
+    "nombre": "PREACHER CURL HOIST",
+    "categoria": "HOIST",
+    "precio": 2990,
+    "descuento": 3200,
+    "imagen": "imagenes/d4932b9d17444ac392218f0ed2382919.png",
+    "agotado": false
+  },
+  {
+    "id": 64,
+    "nombre": "CHEST PRESS HOSIT",
+    "categoria": "HOIST",
+    "precio": 2990,
+    "descuento": 3200,
+    "imagen": "imagenes/d855d8ad15764005ad5b8ddbef121969.png",
+    "agotado": false
+  },
+  {
+    "id": 65,
+    "nombre": "DUAL LEG ACTION HOIST",
+    "categoria": "HOIST",
+    "precio": 2990,
+    "descuento": 3200,
+    "imagen": "imagenes/2c96de75263c40119fc857de10709040.png",
+    "agotado": false
+  },
+  {
+    "id": 66,
+    "nombre": "SHOULDER PRESS HOIST",
+    "categoria": "HOIST",
+    "precio": 2990,
+    "descuento": 3200,
+    "imagen": "imagenes/3e25661de55746b99c577e003bb5d509.png",
+    "agotado": false
+  },
+  {
+    "id": 67,
+    "nombre": "INCLINE CHEST PRESS HOIST",
+    "categoria": "HOIST",
+    "precio": 2990,
+    "descuento": 3200,
+    "imagen": "imagenes/a7a1b4e07dd743928a57a9d552df57b8.png",
+    "agotado": false
+  },
+  {
+    "id": 68,
+    "nombre": "SHOULDER PRESS HOIST",
+    "categoria": "HOIST",
+    "precio": 2990,
+    "descuento": 3200,
+    "imagen": "imagenes/3e25661de55746b99c577e003bb5d509-1.png",
+    "agotado": false
+  },
+  {
+    "id": 69,
+    "nombre": "INCLINE CHEST PRESS HOIST",
+    "categoria": "HOIST",
+    "precio": 2990,
+    "descuento": 3200,
+    "imagen": "imagenes/a7a1b4e07dd743928a57a9d552df57b8-1.png",
+    "agotado": false
+  },
+  {
+    "id": 70,
+    "nombre": "DECLINE CHEST PRESS HOIST",
+    "categoria": "HOIST",
+    "precio": 2990,
+    "descuento": 3200,
+    "imagen": "imagenes/1bbbb247c9f44f348e5c768c91ae45ab-1.png",
+    "agotado": false
+  },
+  {
+    "id": 71,
+    "nombre": "HACK SQUAT / DEAD LIFT HOIST",
+    "categoria": "HOIST",
+    "precio": 3500,
+    "descuento": 3900,
+    "imagen": "imagenes/f98ec9b0b3444cf5bfe5df12a8a1bdf1.png",
+    "agotado": false
+  },
+  {
+    "id": 72,
+    "nombre": "STANDING CALF RAISE HOIST",
+    "categoria": "HOIST",
+    "precio": 2990,
+    "descuento": 3497,
+    "imagen": "imagenes/1aba29c5e5a441cbafe79138d67f02fb.png",
+    "agotado": true
+  },
+  {
+    "id": 73,
+    "nombre": "CHEST PRESS / SHOULDER RAISE HOIST",
+    "categoria": "HOIST",
+    "precio": 2990,
+    "descuento": 3500,
+    "imagen": "imagenes/b5a3760fc0044d6f8052ba3202e83e11.png",
+    "agotado": true
+  },
+  {
+    "id": 74,
+    "nombre": "AB CRUNCH / LOW BACK HOIST",
+    "categoria": "HOIST",
+    "precio": 3600,
+    "descuento": 3900,
+    "imagen": "imagenes/36743b7e9828448d854129195e2363a8.png",
+    "agotado": false
+  },
+  {
+    "id": 75,
+    "nombre": "LEG PRESS/ CALF RAISE HOIST",
+    "categoria": "HOIST",
+    "precio": 3500,
+    "descuento": 3900,
+    "imagen": "imagenes/eaa4fd59c2e340c7a1c9a6c4eb011327.png",
+    "agotado": true
+  },
+  {
+    "id": 76,
+    "nombre": "LAT PULLDOWN / MID ROW HOIST",
+    "categoria": "HOIST",
+    "precio": 3600,
+    "descuento": 3900,
+    "imagen": "imagenes/fc0e477c5954419db2ac7c4fc65b32fe.png",
+    "agotado": false
+  },
+  {
+    "id": 77,
+    "nombre": "ABS HOIST ",
+    "categoria": "HOIST",
+    "precio": 3500,
+    "descuento": 3900,
+    "imagen": "imagenes/50cd0416f1f94079b3143a6a4235f906.png",
+    "agotado": true
+  },
+  {
+    "id": 78,
+    "nombre": "PECTORAL FLY HOIST",
+    "categoria": "HOIST",
+    "precio": 3500,
+    "descuento": 3900,
+    "imagen": "imagenes/21689903f14f432a9e9bcc41a413ec4b.png",
+    "agotado": true
+  },
+  {
+    "id": 79,
+    "nombre": "SEATED CALF HOIST",
+    "categoria": "HOIST",
+    "precio": 3500,
+    "descuento": 3900,
+    "imagen": "imagenes/e51a2208055f45938dda31130d08c885.png",
+    "agotado": true
+  },
+  {
+    "id": 80,
+    "nombre": "LEG PRESS HOIST",
+    "categoria": "HOIST",
+    "precio": 3500,
+    "descuento": 3900,
+    "imagen": "imagenes/c12609ab4896467990b33e2e12cc206b.png",
+    "agotado": true
+  },
+  {
+    "id": 81,
+    "nombre": "SEATED DIP HOIST",
+    "categoria": "HOIST",
+    "precio": 3500,
+    "descuento": 3900,
+    "imagen": "imagenes/1cdb9d4d0c06481ab3aaa8e50e392d54.png",
+    "agotado": true
+  },
+  {
+    "id": 82,
+    "nombre": "LOW BACK HOIST",
+    "categoria": "HOIST",
+    "precio": 3500,
+    "descuento": 3900,
+    "imagen": "imagenes/c66a08a56ffa4b06930b05e3865405c1.webp",
+    "agotado": true
+  },
+  {
+    "id": 83,
+    "nombre": "CHIN DIP ASSIST HOIST",
+    "categoria": "HOIST",
+    "precio": 3500,
+    "descuento": 3900,
+    "imagen": "imagenes/372cb437ef8d493db9b9fe41dda5c759.webp",
+    "agotado": true
+  },
+  {
+    "id": 84,
+    "nombre": "LATERAL AL RAISE HOIST",
+    "categoria": "HOIST",
+    "precio": 3500,
+    "descuento": 3900,
+    "imagen": "imagenes/7c620c0742244011a18bb0ad24aa848f.webp",
+    "agotado": true
+  },
+  {
+    "id": 85,
+    "nombre": "PRONE LEG CURL HOIST",
+    "categoria": "HOIST",
+    "precio": 3500,
+    "descuento": 3900,
+    "imagen": "imagenes/32b98e5883ad437d9e514f30796f68c8.webp",
+    "agotado": true
+  },
+  {
+    "id": 86,
+    "nombre": "SHOULDER PRESS HOIST",
+    "categoria": "HOIST",
+    "precio": 3500,
+    "descuento": 3900,
+    "imagen": "imagenes/933b5e56b6cd4a79a1a119fdab962bd3.webp",
+    "agotado": true
+  },
+  {
+    "id": 87,
+    "nombre": "GLUTE MASTER HOIST ",
+    "categoria": "HOIST",
+    "precio": 3500,
+    "descuento": 3900,
+    "imagen": "imagenes/20ac15a144824a4f90fe9a60bdeb93b9.webp",
+    "agotado": true
+  },
+  {
+    "id": 88,
+    "nombre": "LAT PULLDOWN HOIST",
+    "categoria": "HOIST",
+    "precio": 3500,
+    "descuento": 3900,
+    "imagen": "imagenes/2260a03dfe8945ccacf6e99402f3d9c3.webp",
+    "agotado": true
+  },
+  {
+    "id": 89,
+    "nombre": "SEATED MIDORW HOIST",
+    "categoria": "HOIST",
+    "precio": 3500,
+    "descuento": 3900,
+    "imagen": "imagenes/cd84e48187544087a83759385ca95f13.webp",
+    "agotado": true
+  },
+  {
+    "id": 90,
+    "nombre": "CHEST PRESS HOIST",
+    "categoria": "HOIST",
+    "precio": 3500,
+    "descuento": 3900,
+    "imagen": "imagenes/13c8f64696f848a28f054446d97692ef.webp",
+    "agotado": false
+  },
+  {
+    "id": 91,
+    "nombre": "LEG EXTENSION HOIST",
+    "categoria": "HOIST",
+    "precio": 3500,
+    "descuento": 3900,
+    "imagen": "imagenes/5647bb5efca94dd884641753d8098889.webp",
+    "agotado": true
+  },
+  {
+    "id": 82,
+    "nombre": "LEG CURL HOIST",
+    "categoria": "HOIST",
+    "precio": 3500,
+    "descuento": 3900,
+    "imagen": "imagenes/fb51fbfa51c547468f4a7c627768333c.webp",
+    "agotado": true
+  },
+  {
+    "id": 93,
+    "nombre": "BICEP CURL / TRICEP EXTENSION HOIST",
+    "categoria": "HOIST",
+    "precio": 3500,
+    "descuento": 3900,
+    "imagen": "imagenes/cf4d2449dcec4963b7e041ab4bcb285b.webp",
+    "agotado": true
+  },
+  {
+    "id": 94,
+    "nombre": "BANCA LIBRE REGULABLE",
+    "categoria": "PRECOR",
+    "precio": 800,
+    "descuento": 1200,
+    "imagen": "imagenes/image (9).png",
+    "agotado": false
+  },
+  {
+    "id": 95,
+    "nombre": "BANCA ABDOMINAL PRECOR",
+    "categoria": "PRECOR",
+    "precio": 900,
+    "descuento": 1500,
+    "imagen": "imagenes/8e760496364d467ba0b604d2ba6b879b.png",
+    "agotado": false
+  },
+  {
+    "id": 96,
+    "nombre": "BANCA 90 GRADOS PRECOR",
+    "categoria": "PRECOR",
+    "precio": 455,
+    "descuento": 900,
+    "imagen": "imagenes/a8f27443194d4bf9b50d3c0e1b4a2aa6.png",
+    "agotado": false
+  },
+  {
+    "id": 97,
+    "nombre": "BANCA PLANA INDUSTRIAL",
+    "categoria": "PRECOR",
+    "precio": 450,
+    "descuento": 650,
+    "imagen": "imagenes/f2f25d101b834b6baededcdf0dc15c4e.png",
+    "agotado": false
+  },
+  {
+    "id": 98,
+    "nombre": "PANTORRILLERA SENTADO",
+    "categoria": "PRECOR",
+    "precio": 1050,
+    "descuento": 1200,
+    "imagen": "imagenes/8c9d44603a2b4012b13eec5730a70114.png",
+    "agotado": false
+  },
+  {
+    "id": 99,
+    "nombre": "BANCO DECLINADO OLIMPICO PRECOR",
+    "categoria": "PRECOR",
+    "precio": 990,
+    "descuento": 1200,
+    "imagen": "imagenes/7282a9e898d547f0b9c2ac0a8098ddfe.png",
+    "agotado": false
+  },
+  {
+    "id": 100,
+    "nombre": "BANCA PLANA OLIMPICA",
+    "categoria": "PRECOR",
+    "precio": 990,
+    "descuento": 1200,
+    "imagen": "imagenes/9973a51e31cb4489b510ac6156a9c3cd.png",
+    "agotado": false
+  },
+  {
+    "id": 101,
+    "nombre": "BANCA INCLINADA OLIMPICA",
+    "categoria": "PRECOR",
+    "precio": 950,
+    "descuento": 1200,
+    "imagen": "imagenes/bfa610fcb293472ab1b1bea4fdb221f7.png",
+    "agotado": false
+  },
+  {
+    "id": 102,
+    "nombre": "BANCO SCOTT",
+    "categoria": "PRECOR",
+    "precio": 800,
+    "descuento": 1200,
+    "imagen": "imagenes/2377fbc848514d579bb33c7791dc8b0b.png",
+    "agotado": false
+  },
+  {
+    "id": 103,
+    "nombre": "RACK DE SENTADILLAS",
+    "categoria": "PRECOR",
+    "precio": 1150,
+    "descuento": 1400,
+    "imagen": "imagenes/239473cd5cf1435ca1c6134f27acaf9c.png",
+    "agotado": true
+  },
+  {
+    "id": 104,
+    "nombre": "LEG PRESS",
+    "categoria": "IMPORTADO",
+    "precio": 3100,
+    "descuento": 3400,
+    "imagen": "imagenes/eab20d260a1648f69d228a389f12a2d5.png",
+    "agotado": true
+  },
+  {
+    "id": 105,
+    "nombre": "HIP BRIDGE MACHINE",
+    "categoria": "IMPORTADO",
+    "precio": 2450,
+    "descuento": 2900,
+    "imagen": "imagenes/0b4fa901a2d849d48cc94ca02dfe30b2.png",
+    "agotado": false
+  },
+  {
+    "id": 106,
+    "nombre": "LEG PRESS TRAINER VERTICAL",
+    "categoria": "PANATTA",
+    "precio": 4400,
+    "descuento": 4900,
+    "imagen": "imagenes/45a20e03fb2242f4bed6291d3d40ca2b.png",
+    "agotado": false
+  },
+  {
+    "id": 107,
+    "nombre": "TOWER CHEST PRESS",
+    "categoria": "PANATTA",
+    "precio": 4400,
+    "descuento": 4900,
+    "imagen": "imagenes/aa710637bcff4decb6374b3096680a21 (1).png",
+    "agotado": false
+  },
+  {
+    "id": 108,
+    "nombre": "PULLDOWN PANATTA",
+    "categoria": "PANATTA",
+    "precio": 4400,
+    "descuento": 4900,
+    "imagen": "imagenes/image (10).png",
+    "agotado": false
+  },
+  {
+    "id": 109,
+    "nombre": "HORIZONTAL ELECTION TRAINER",
+    "categoria": "PANATTA",
+    "precio": 4400,
+    "descuento": 4900,
+    "imagen": "imagenes/image (11).png",
+    "agotado": false
+  },
+  {
+    "id": 110,
+    "nombre": "SITTING POSTURE OUTREACH HIGH POSITION PULL-DOWN",
+    "categoria": "PANATTA",
+    "precio": 4400,
+    "descuento": 4900,
+    "imagen": "imagenes/image (12).png",
+    "agotado": false
+  },
+  {
+    "id": 111,
+    "nombre": "T - SHAPED ROWING TRAINER",
+    "categoria": "PANATTA",
+    "precio": 4450,
+    "descuento": 4900,
+    "imagen": "imagenes/image (13).png",
+    "agotado": false
+  },
+  {
+    "id": 112,
+    "nombre": "SITTING POSTURE LOW PULL ROWING TRAINER",
+    "categoria": "PANATTA",
+    "precio": 4400,
+    "descuento": 4900,
+    "imagen": "imagenes/image (14).png",
+    "agotado": false
+  },
+  {
+    "id": 113,
+    "nombre": "TRANSFER THIGH STRETCH",
+    "categoria": "PANATTA",
+    "precio": 4500,
+    "descuento": 4900,
+    "imagen": "imagenes/image (15).png",
+    "agotado": true
+  },
+  {
+    "id": 114,
+    "nombre": "SITTING ROWING TRAINER",
+    "categoria": "PANATTA",
+    "precio": 4600,
+    "descuento": 4900,
+    "imagen": "imagenes/image (16).png",
+    "agotado": false
+  },
+  {
+    "id": 115,
+    "nombre": "STANDING OUTREACH",
+    "categoria": "PANATTA",
+    "precio": 4400,
+    "descuento": 4900,
+    "imagen": "imagenes/image (17).png",
+    "agotado": false
+  },
+  {
+    "id": 116,
+    "nombre": "LAT PULLDOW",
+    "categoria": "IMPORTADO",
+    "precio": 2900,
+    "descuento": 3200,
+    "imagen": "imagenes/image (18).png",
+    "agotado": true
+  },
+  {
+    "id": 117,
+    "nombre": "PRENSA PENDULO HAMMER (LM-5010)",
+    "categoria": "HAMMER",
+    "precio": 3070,
+    "descuento": 3500,
+    "imagen": "imagenes/VT-09_AYFjkAYAgSisRRpxAYQIpsk.jpeg",
+    "agotado": false
+  },
+  {
+    "id": 118,
+    "nombre": "ESTACION ABDOMINAL (LM-1047)",
+    "categoria": "PRECOR",
+    "precio": 1120,
+    "descuento": 1500,
+    "imagen": "imagenes/LM-1047_QRFjkQRAgSisRRpxQRQIpsk.jpeg",
+    "agotado": false
+  },
+  {
+    "id": 119,
+    "nombre": "PORTA DISCO VERTICAL (LM-1054)",
+    "categoria": "PRECOR",
+    "precio": 450,
+    "descuento": 900,
+    "imagen": "imagenes/LM-1054_QRFjkQRAgSisRRpxQRQIpsk.jpeg",
+    "agotado": false
+  },
+  {
+    "id": 120,
+    "nombre": "RACK PORTA BARRAS (LM-1055)",
+    "categoria": "PRECOR",
+    "precio": 840,
+    "descuento": 990,
+    "imagen": "imagenes/LM-1055_QRFjkQRAgSisRRpxQRQIpsk.jpeg",
+    "agotado": false
+  },
+  {
+    "id": 121,
+    "nombre": "LATERAL LOW ROW (LM-2002)",
+    "precio": 2660,
+    "descuento": 2900,
+    "imagen": "imagenes/LM-2002_QRFjkQRAgSisRRpxQRQIpsk.jpeg",
+    "agotado": false
+  },
+  {
+    "id": 122,
+    "nombre": "EXTENSION TRASERA (LM-1045)",
+    "categoria": "IMPORTADO",
+    "precio": 750,
+    "descuento": 990,
+    "imagen": "imagenes/LM-1045_QRFjkQRAgSisRRpxQRQIpsk.jpeg",
+    "agotado": false
+  },
+  {
+    "id": 123,
+    "nombre": "HORIZONTAL BENCH PRESS (LM-6004)",
+    "categoria": "PANATTA",
+    "precio": 4400,
+    "descuento": 4900,
+    "imagen": "imagenes/LM-6004_QRFjkQRAgSisRRpxQRQIpsk.jpeg",
+    "agotado": false
+  },
+  {
+    "id": 124,
+    "nombre": "INCLINE BENCH PRESS (LM-6019)",
+    "categoria": "PANATTA",
+    "precio": 4400,
+    "descuento": 4900,
+    "imagen": "imagenes/LM-6019_QRFjkQRAgSisRRpxQRQIpsk.jpeg",
+    "agotado": false
+  },
+  {
+    "id": 125,
+    "nombre": "SEATED ROW (LM-6006)",
+    "categoria": "PANATTA",
+    "precio": 4400,
+    "descuento": 4900,
+    "imagen": "imagenes/LM-6006_QRFjkQRAgSisRRpxQRQIpsk.jpeg",
+    "agotado": false
+  }
+]
