@@ -248,7 +248,7 @@ function checkout() {
 
     // Crear URL de WhatsApp correctamente
     const whatsappUrl =
-    'https://api.whatsapp.com/send?phone=51910158797&text=' +
+    'https://api.whatsapp.com/send?phone=51970784359&text=' +
     encodeURIComponent(message);
 
     // Abrir WhatsApp
